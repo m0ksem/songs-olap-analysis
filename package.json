@@ -1,0 +1,16 @@
+{
+  "name": "song-olap-analysis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "bayes": "tsx ./naive-bayes.ts",
+    "one-rule": "tsx ./one-rule.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tsx": "^3.12.6"
+  }
+}
